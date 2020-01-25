@@ -15,5 +15,8 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+   <p>
+   Validating the jenkins to tomcat deployemnt.
+  </p>
 </body>
 </html>
